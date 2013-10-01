@@ -7,3 +7,4 @@ html{
 	color: red; /*Inheritance -- everything not otherwise defined in this file will have a font color of red*/
 	color: green; /*What happens farthest down the file wins!*/
 }
+/*Note: h1 not affected -- Most Specific Rule Wins!*/
