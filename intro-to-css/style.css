@@ -8,3 +8,7 @@ html{
 	color: green; /*What happens farthest down the file wins!*/
 }
 /*Note: h1 not affected -- Most Specific Rule Wins!*/
+
+p {
+	color: black;
+}
