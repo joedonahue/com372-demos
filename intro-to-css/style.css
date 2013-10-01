@@ -1,4 +1,8 @@
 h1 {
-	color: blue;
+	color: blue; /*Only affects font color*/
 	background-color: gray;
+}
+
+html{
+	color: red; /*Inheritance -- everything not otherwise defined in this file will have a font color of red*/
 }
