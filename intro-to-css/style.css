@@ -16,3 +16,7 @@ p {
 #zen-summary p{
 	color: teal;
 }
+
+h2, h3 {
+	color: red;
+}
