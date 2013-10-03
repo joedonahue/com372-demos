@@ -8,6 +8,7 @@ h1{
 	/*5x larger than default font size -- will scale accordingly*/
 	
 	/*h1 not biggest -- size can be adjusted easily*/
+	font-family: 'Lobster', cursive;
 }
 
 h2{
