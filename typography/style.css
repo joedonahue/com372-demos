@@ -1,3 +1,21 @@
 body{
-	font-size: 100%;
+	font-size: 100%; /*100% -- Default font size based on browser*/
+}
+
+h1{
+	font-size: 5em; /*1em=100%*/
+	
+	/*5x larger than default font size -- will scale accordingly*/
+	
+	/*h1 not biggest -- size can be adjusted easily*/
+}
+
+h2{
+	font-size: 2em;
+}
+
+h3{
+	font-size: 1.75em;
+	font-weight: normal;
+	font-style: italic;
 }
