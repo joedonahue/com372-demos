@@ -11,6 +11,7 @@ h1{
 	/*h1 not biggest -- size can be adjusted easily*/
 	font-family: 'Lobster', cursive;
 	color: red;
+	text-shadow: .05em .05em .2em #333;
 }
 
 h2{
