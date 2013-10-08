@@ -1,3 +1,21 @@
 body{
 	background-color: #e8e8e8;
 }
+
+.menu-item{
+	text-transform: lowercase;
+	font-weight: bold;
+}
+
+.menu-item:first-letter{
+	text-transform: capitalize;
+}
+
+.price{
+	font-weight: normal;
+	font-style: italic;
+}
+
+.menu-description:first-letter{
+	text-transform: capitalize;
+}
