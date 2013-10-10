@@ -19,3 +19,22 @@ body{
 .menu-description:first-letter{
 	text-transform: capitalize;
 }
+
+a{
+	text-decoration: none;
+}
+a:link{
+	color: #0f003e;
+}
+
+a:visited{
+	color: #ec176a;
+}
+
+a:hover{
+	color: #ffdb2d;
+	text-decoration: underline;
+}
+a:active{
+	color: #4e4100;
+}
