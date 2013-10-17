@@ -4,9 +4,43 @@ body{
 	font-size: 100%;
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
+	color: #fff;
 }
 
 #container{
 	width: 960px;
 	margin: 0 auto 0 auto;
+}
+
+h1{
+	font-size:400%;
+}
+
+h2{
+	font-size: 200%;
+	background-color: #D35400;
+	padding: 1%;
+}
+
+h3{
+	font-size: 150%;
+}
+
+section{
+	margin: 0 0 2% 0;
+	background-color: #BE44AD;
+	box-shadow: 2px 2px 5px #333;
+	padding: 0% 0% 2% 0%;
+}
+
+header{
+	margin: 0 0 2% 0;
+}
+
+p{
+	padding: 0 0 0 4%;
+}
+
+ul{
+	padding: 0 0 0 4%;
 }
